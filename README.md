@@ -1,2 +1,2 @@
 # Active-particles
-Simulation of confinnate active particles on 2D, with or without interaction and possible adsorption borders.
+Simulation of confinnate active and brownian particles on 2D, with or without interaction and possible adsorption borders.
